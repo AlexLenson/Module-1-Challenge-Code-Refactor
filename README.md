@@ -9,7 +9,7 @@ The purpose of this project is to gain experience refactoring an existing codeba
 - Gained familiarity with using Git and pushing to Github
   
 
-## Screenshot
+## Horiseon Webpage
 
 ![screenshot](./assets/images/01-html-css-git-homework-demo.png)
 
