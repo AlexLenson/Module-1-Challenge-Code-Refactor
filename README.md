@@ -5,7 +5,7 @@
 The purpose of this project is to gain experience refactoring an existing codebase. The following steps were followed: 
 - All HTML <div> tags were updated to semantic tags 
 - Consolidated CSS, getting rid of redundant rules
-- Made the code more accessible by including image alt text and ...?
+- Made the code more accessible by including alt text to all images
 - Gained familiarity with using Git and pushing to Github
   
 
