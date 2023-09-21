@@ -16,4 +16,4 @@ The purpose of this project is to gain experience refactoring an existing codeba
 
 
 ## Deployment
-See it live at: 
+See it live at: https://alexlenson.github.io/Module-1-Challenge-Code-Refactor/
